@@ -3,7 +3,7 @@ The elements in a linked list are linked using pointers. linked list consists of
 a data field and a reference(link) to the next node in the list.
 
 
-<p align="left">Types of Linked List</p>
+<p align="left"><b>Types of Linked List</b></p>
 
 <p align="left">1.Singly Linked List </p>
 
