@@ -3,17 +3,17 @@ The elements in a linked list are linked using pointers. linked list consists of
 a data field and a reference(link) to the next node in the list.
 
 
-Types of Linked List
+<p align="left">Types of Linked List</p>
 
-1.Singly Linked List 
+<p align="left">1.Singly Linked List </p>
 
-2.Doubly Linked List 
+<p align="left">2.Doubly Linked List </p>
 
-3.Circular Linked List 
+<p align="left">3.Circular Linked List </p>
 
-4.Circular Doubly Linked List 
+<p align="left">4.Circular Doubly Linked List </p>
 
-5.Header Linked List 
+<p align="left">5.Header Linked List </p>
 
 
 __Linked Lists are most commonly used for:__
